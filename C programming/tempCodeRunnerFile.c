@@ -1,0 +1,1 @@
+ch==y input two number from user and sum of them
